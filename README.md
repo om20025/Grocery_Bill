@@ -4,7 +4,3 @@ version :- 1.0
 java 8 
 -:developer:-
 Om kalariya				
-Viraj Jagani			
-Smit Devganiya		
-Mayank Gajera			
-Shreyash Chauhan			
